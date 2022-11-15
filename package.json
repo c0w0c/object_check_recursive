@@ -1,0 +1,27 @@
+{
+  "name": "object_check_recursive",
+  "version": "1.0.0",
+  "description": "使用遞迴檢查物件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c0w0c/object_check_recursive.git"
+  },
+  "keywords": [
+    "recursive"
+  ],
+  "author": "c0w0c",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/c0w0c/object_check_recursive/issues"
+  },
+  "homepage": "https://github.com/c0w0c/object_check_recursive#readme",
+  "devDependencies": {
+    "eslint": "^8.27.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
