@@ -4,6 +4,7 @@
   "description": "使用遞迴檢查物件",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +19,7 @@
   "bugs": {
     "url": "https://github.com/c0w0c/object_check_recursive/issues"
   },
+  "type": "module",
   "homepage": "https://github.com/c0w0c/object_check_recursive#readme",
   "devDependencies": {
     "eslint": "^8.27.0",
